@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Financiera.Dominio
+namespace Financiera_Infraestructura_Datos
 {
-    class Prueba
+    public class Class1
     {
     }
 }

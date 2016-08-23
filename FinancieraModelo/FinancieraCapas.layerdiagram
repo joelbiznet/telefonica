@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="4746db57-cad7-40d6-abcd-6ae6c64744c6" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="15afadfe-0114-432b-8205-2053fd5ec930" name="Dominio (Negocio)" />
+    <layer Id="0ccfbff2-91fd-437e-9ac0-d66d9e3fa675" name="Infraestructura Datos (Acceso a Datos)">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="c2e0f3ff-df20-4313-b5e3-8b1e14043d47" direction="Forward">
+          <layerMoniker Id="15afadfe-0114-432b-8205-2053fd5ec930" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="e65077ae-7d81-44d2-80c4-1e1669b4be9e" name="Distribución">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="774a3939-6a58-4f50-8c1a-00ed26413c42" direction="Forward">
+          <layerMoniker Id="15afadfe-0114-432b-8205-2053fd5ec930" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="c4dcfcc9-73e3-497c-9eed-ebfe803d282d" direction="Forward">
+          <layerMoniker Id="0ccfbff2-91fd-437e-9ac0-d66d9e3fa675" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="7ca2cfd8-e77b-466f-9a4f-b83de464bd9f" name="Modelo" />
+    <layer Id="8dabe4ad-fd4d-42dc-8b50-f9f758707289" name="Pruebas Unitarias">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="9fdad536-56ea-46aa-8054-a22bfca59378" direction="Forward">
+          <layerMoniker Id="15afadfe-0114-432b-8205-2053fd5ec930" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="6287b594-3e28-44eb-b9c5-24d56d9a0614" direction="Forward">
+          <layerMoniker Id="0ccfbff2-91fd-437e-9ac0-d66d9e3fa675" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+  </layers>
+</layerModel>

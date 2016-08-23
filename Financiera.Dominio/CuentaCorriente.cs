@@ -7,70 +7,35 @@ namespace Financiera.Dominio
 {
     public class CuentaCorriente
     {
-        public int NumeroCuenta
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
+        #region Propiedades
+        /// <summary>
+        /// Propíedades de la Clase Cuenta Corriente
+        /// </summary>
+        public int NumeroCuenta { get; set; }
 
-            set
-            {
-            }
-        }
+        public int Saldo { get; set; }
 
-        public int Saldo
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
+        public int FechaApertura { get; set; }
 
-            set
-            {
-            }
-        }
+        public int EstadoCuenta { get; set; }
 
-        public int FechaApertura
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
+        public Cliente Cliente { get; set; }
 
-            set
-            {
-            }
-        }
+        #endregion
 
-        public int EstadoCuenta
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
+        #region Metodos
 
-            set
-            {
-            }
-        }
-
-        public Cliente Cliente
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-
-            set
-            {
-            }
-        }
-
+        /// <summary>
+        /// Metodo para aperturar la Cuenta del Cliente
+        /// </summary>
         public void Aperturar()
         {
             throw new System.NotImplementedException();
         }
+
+        /// <summary>
+        /// 
+        /// </summary>
 
         public void Cancelar()
         {
@@ -86,5 +51,6 @@ namespace Financiera.Dominio
         {
             throw new System.NotImplementedException();
         }
+        #endregion
     }
 }
