@@ -7,7 +7,7 @@ using Microsoft.VisualStudio.TestPlatform.UnitTestFramework;
 namespace Financiera_Pruebas_Unitarias
 {
     [TestClass]
-    public class UnitTest1
+    public class ClientePruebasUnitarias
     {
         [TestMethod]
         public void TestMethod1()
