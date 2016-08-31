@@ -19,6 +19,10 @@ namespace Financiera.Dominio
 
         public int EstadoCuenta { get; set; }
 
+        public int CodigoCuenta { get; set; }
+
+        public int CodigoCliente { get; set; }
+
         public Cliente Cliente { get; set; }
 
         #endregion
