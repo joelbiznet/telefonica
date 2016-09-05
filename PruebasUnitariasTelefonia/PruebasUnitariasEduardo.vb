@@ -17,4 +17,24 @@ Imports Compañia_Telefónica_BEAN
         Assert.IsNotNull(negocio.guardar(client))
     End Sub
 
+    <TestMethod()> Public Sub borrar()
+        Dim xnom As String
+        xnom = "Paco"
+
+
+        Dim negocio As ClsCliente_BUS = New ClsCliente_BUS()
+
+        Assert.IsNotNull(negocio.borrar(xnom))
+    End Sub
+    <TestMethod()> Public Sub dameuno()
+
+
+        Dim client As String
+        client = "12345678"
+
+
+        Dim negocio As ClsCliente_BUS = New ClsCliente_BUS()
+
+        Assert.IsNotNull(negocio.dameUno(client))
+    End Sub
 End Class
