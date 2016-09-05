@@ -13,7 +13,7 @@ namespace Financiera.Dominio
 
         public byte TipoCliente { get; set; }
 
-        public Cliente DarAlta(string as_nombre, byte aby_tipo)
+        public static Cliente DarAlta(string as_nombre, byte aby_tipo)
         {
             return new Cliente()
             {

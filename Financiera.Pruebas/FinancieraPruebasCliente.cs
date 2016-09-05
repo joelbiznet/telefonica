@@ -5,7 +5,7 @@ using Financiera.Dominio;
 namespace Financiera.Pruebas
 {
     [TestClass]
-    public class UnitTest1
+    public class FinancieraPruebasCliente
     {
         [TestMethod]
         public void DarAltaSatisfactorio()
