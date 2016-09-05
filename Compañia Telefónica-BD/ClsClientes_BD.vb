@@ -7,15 +7,15 @@ Public Class ClsClientes_BD
     Private ret As Integer = -1
 
     Public Function guardar(xPersona As ClsClientes) As Integer
-        cmd = "INSERT INTO cliente(dni,nombre,apellido,sexo) VALUES('" & xPersona.dni & "','" & xPersona.nombre & "','" & xPersona.apellido & "','" & xPersona.sexo & "')"
-        con = cnx.abrir
-        sql = New SqlClient.SqlCommand(cmd, con)
-        ret = sql.ExecuteNonQuery()
-        If ret = -1 Then
-            Throw New Exception("Error al insertar Cliente")
-        End If
-        cnx.cerrar(con)
-        Return ret
+        'cmd = "INSERT INTO cliente(dni,nombre,apellido,sexo) VALUES('" & xPersona.dni & "','" & xPersona.nombre & "','" & xPersona.apellido & "','" & xPersona.sexo & "')"
+        'con = cnx.abrir
+        'sql = New SqlClient.SqlCommand(cmd, con)
+        'ret = sql.ExecuteNonQuery()
+        'If ret = -1 Then
+        'Throw New Exception("Error al insertar Cliente")
+        'End If
+        'cnx.cerrar(con)
+        Return ret = 1
     End Function
 
     Public Function borrar(xnom As String) As Integer

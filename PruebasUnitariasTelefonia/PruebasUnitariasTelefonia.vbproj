@@ -63,7 +63,9 @@
     </When>
     <Otherwise>
       <ItemGroup>
-        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework" />
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+          <Private>False</Private>
+        </Reference>
       </ItemGroup>
     </Otherwise>
   </Choose>
@@ -96,6 +98,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="PruebasUnitariasEduardo.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -115,6 +118,16 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Compañia Telefónica-BEAN\Compañia Telefónica-BEAN.vbproj">
+      <Project>{ea2606c7-498c-4ef7-bf04-8b4b65c32a0e}</Project>
+      <Name>Compañia Telefónica-BEAN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Compañia Telefónica-BUS\Compañia Telefónica-BUS.vbproj">
+      <Project>{ce4536c1-a2d3-4f6e-bbd2-0d80dc8c6820}</Project>
+      <Name>Compañia Telefónica-BUS</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

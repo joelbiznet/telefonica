@@ -62,3 +62,26 @@ C:\Users\Usuario\Source\Repos\Financiera_Final\Compañia Telefónica\bin\Debug\C
 C:\Users\Usuario\Source\Repos\Financiera_Final\Compañia Telefónica\obj\Debug\Compañia Telefónica.exe
 C:\Users\Usuario\Source\Repos\Financiera_Final\Compañia Telefónica\obj\Debug\Compañia Telefónica.xml
 C:\Users\Usuario\Source\Repos\Financiera_Final\Compañia Telefónica\obj\Debug\Compañia Telefónica.pdb
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica.exe.config
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\obj\Debug\Compañia Telefónica.exe
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\obj\Debug\Compañia Telefónica.xml
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\obj\Debug\Compañia Telefónica.pdb
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica.exe
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica.pdb
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica.xml
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BEAN.dll
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BUS.dll
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BD.dll
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BEAN.pdb
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BEAN.xml
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BUS.pdb
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BUS.xml
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BD.pdb
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BD.xml
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\obj\Debug\Compañia Telefónica-GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Menu_GUI.resources
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Resources.resources
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Registro_Clientes_GUI.resources
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Registro_Telf_GUI.resources
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Ventas_GUI.resources
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica\obj\Debug\Compañia Telefónica-GUI.vbproj.GenerateResource.Cache

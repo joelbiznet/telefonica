@@ -14,3 +14,12 @@ G:\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefón
 G:\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.dll
 G:\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.xml
 G:\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.pdb
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BEAN\bin\Debug\Compañia Telefónica-BEAN.dll
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BEAN\bin\Debug\Compañia Telefónica-BEAN.pdb
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BEAN\bin\Debug\Compañia Telefónica-BEAN.xml
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BEAN\obj\Debug\Compañia_Telefónica_BEAN.Resources.resources
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.dll
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.xml
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.pdb

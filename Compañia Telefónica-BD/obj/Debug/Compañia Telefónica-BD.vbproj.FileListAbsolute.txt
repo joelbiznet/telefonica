@@ -22,3 +22,15 @@ G:\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónic
 G:\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.dll
 G:\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.xml
 G:\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.pdb
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BD.dll
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BD.pdb
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BD.xml
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BEAN.dll
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BEAN.pdb
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BEAN.xml
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BD\obj\Debug\Compañia_Telefónica_BD.Resources.resources
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.dll
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.xml
+C:\Users\Usuario\Source\Repos\telefonica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.pdb
