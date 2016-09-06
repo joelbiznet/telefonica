@@ -1,21 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Compañia_Telefónica_BEAN.ClsClientes">
-    <Position X="9" Y="1.5" Width="1.5" />
+    <Position X="9.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAABAASAAASAAAAAAQIAAAAAAAAAAAAAAAIAAAA=</HashCode>
       <FileName>ClsClientes.vb</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Compañia_Telefónica_BEAN.ClsTelefonos">
-    <Position X="6" Y="1.5" Width="1.5" />
+    <Position X="6.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAASQAAAAAAAAAAAAAAAEAgAAAAAAAAIAEA=</HashCode>
+      <HashCode>AAAAAAAAAAASQAAAAAAACAAAAAAAEAggAAAAAAAIAEA=</HashCode>
       <FileName>ClsTelefonos.vb</FileName>
     </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ClsVentas" />
+      <Property Name="ClsClientes" />
+    </ShowAsAssociation>
   </Class>
   <Class Name="Compañia_Telefónica_BEAN.ClsVentas">
-    <Position X="3" Y="1.75" Width="1.5" />
+    <Position X="3.5" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQAAAAABAAAQAAAAAAAAAQAAAgAAAAgAAAAAAAAAAAA=</HashCode>
       <FileName>ClsVentas.vb</FileName>

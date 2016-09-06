@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm10="http://schemas.microsoft.com/dsltools/UseCaseModel" xmlns:dm11="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner"
   dslVersion="1.0.0.0"
   Id="40de5717-c78c-4c31-9370-1d9ed4ebbf56"
   name="Campañia_Telefónica_Modelo" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
@@ -17,28 +17,134 @@
         name="StandardProfileL3" />
     </packageHasProfileInstances>
   </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <actor
+        Id="9eee7b29-2eda-4d61-9189-f3b65acb458b"
+        name="Usuario"
+        isAbstract="false"
+        isLeaf="false">
+        <suppliersInternal>
+          <dependency
+            Id="c87043ef-6d1b-4be0-943a-8a53a71876d2">
+            <useCaseMoniker
+              Id="5c73bd70-39f0-484f-bab2-2dc47d8780be"
+              LastKnownName="Gestionar Cliente"
+              LastKnownLocation="Campañia_Telefónica_Modelo.uml" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="5c73bd70-39f0-484f-bab2-2dc47d8780be"
+        name="Gestionar Cliente"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="86cc3c97-a032-499a-b0d2-e56c46c0d64d"
+        name="Agregar Cliente"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="e159450c-3683-4ab6-86bc-f1af0d66f039">
+            <useCaseMoniker
+              Id="5c73bd70-39f0-484f-bab2-2dc47d8780be"
+              LastKnownName="Gestionar Cliente"
+              LastKnownLocation="Campañia_Telefónica_Modelo.uml" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="66439ccb-b5c7-4c9e-8d40-026036be9344"
+        name="Modificar Cliente"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="49f44b0a-fec5-4a8f-aeb9-d0853a669504">
+            <useCaseMoniker
+              Id="5c73bd70-39f0-484f-bab2-2dc47d8780be"
+              LastKnownName="Gestionar Cliente"
+              LastKnownLocation="Campañia_Telefónica_Modelo.uml" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="2bf023ed-f9d0-4043-b797-e66a679e9a55"
+        name="Buscar Cliente"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="47430401-2896-416d-b14d-930e6a71dd53">
+            <useCaseMoniker
+              Id="5c73bd70-39f0-484f-bab2-2dc47d8780be"
+              LastKnownName="Gestionar Cliente"
+              LastKnownLocation="Campañia_Telefónica_Modelo.uml" />
+          </extend>
+        </extendedCases>
+        <additions>
+          <include
+            Id="8f9bb5f3-8a6c-4735-8da8-6bb2f52b7038">
+            <useCaseMoniker
+              Id="66439ccb-b5c7-4c9e-8d40-026036be9344"
+              LastKnownName="Modificar Cliente"
+              LastKnownLocation="Campañia_Telefónica_Modelo.uml" />
+          </include>
+          <include
+            Id="dca13b0c-6350-4675-bc2a-ec3469801864">
+            <useCaseMoniker
+              Id="176362f9-42d5-48f6-80e6-516bbe6e0e46"
+              LastKnownName="Eliminar Cliente"
+              LastKnownLocation="Campañia_Telefónica_Modelo.uml" />
+          </include>
+        </additions>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="176362f9-42d5-48f6-80e6-516bbe6e0e46"
+        name="Eliminar Cliente"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="4d530ba7-2f8d-421e-adce-135b6b7634fc">
+            <useCaseMoniker
+              Id="5c73bd70-39f0-484f-bab2-2dc47d8780be"
+              LastKnownName="Gestionar Cliente"
+              LastKnownLocation="Campañia_Telefónica_Modelo.uml" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </packageHasNamedElement>
+  </packagedElements>
   <primitiveType
     Id="220a3521-e091-4221-bae9-3ef9018e845c"
     name="Integer"
     isAbstract="false"
-    isTemplate="false"
     isLeaf="false" />
   <primitiveType
     Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
     name="Boolean"
     isAbstract="false"
-    isTemplate="false"
     isLeaf="false" />
   <primitiveType
     Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
     name="String"
     isAbstract="false"
-    isTemplate="false"
     isLeaf="false" />
   <primitiveType
     Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
     name="UnlimitedNatural"
     isAbstract="false"
-    isTemplate="false"
     isLeaf="false" />
 </modelStoreModel>

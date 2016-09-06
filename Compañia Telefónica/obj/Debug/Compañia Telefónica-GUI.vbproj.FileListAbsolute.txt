@@ -58,3 +58,7 @@ F:\Base Datos II\Unidad I\Compañia Telefónica\Compañia Telefónica\bin\Debug\
 F:\Base Datos II\Unidad I\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.exe
 F:\Base Datos II\Unidad I\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.xml
 F:\Base Datos II\Unidad I\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.pdb
+C:\Users\Usuario\Source\Repos\Financiera_Final\Compañia Telefónica\bin\Debug\Compañia Telefónica.exe.config
+C:\Users\Usuario\Source\Repos\Financiera_Final\Compañia Telefónica\obj\Debug\Compañia Telefónica.exe
+C:\Users\Usuario\Source\Repos\Financiera_Final\Compañia Telefónica\obj\Debug\Compañia Telefónica.xml
+C:\Users\Usuario\Source\Repos\Financiera_Final\Compañia Telefónica\obj\Debug\Compañia Telefónica.pdb

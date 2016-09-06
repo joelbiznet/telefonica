@@ -1,1 +1,92 @@
-﻿ 
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm11="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner" dslVersion="1.0.0.0" Id="1f45b1b1-ef80-4a6c-b6c7-606e2bfa38ea" name="CUGestionarCliente" linkedPackageId="0c7a5310-6234-4f73-b810-1d50c6018b94" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <profileInstances>
+    <packageHasProfileInstances Id="f8311bf8-b965-4276-b8d4-525014f74e21">
+      <profileInstance Id="06495610-4666-4982-a371-cc199c993162" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="49bbaf62-dffe-4780-82eb-36622d6a95c8">
+      <profileInstance Id="7a6ba032-f5b4-4008-af11-ae43b98c3c5a" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="e6b2e2b0-e7c1-49a3-ae74-236613db41e9" name="Usuario" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="9eee7b29-2eda-4d61-9189-f3b65acb458b" />
+        <suppliersInternal>
+          <dependency Id="18cd7745-5ee7-4ae3-8c93-93acea30baa7">
+            <useCaseMoniker Id="411c7619-febc-49d1-a0cb-94737ec4e5e0" LastKnownName="Gestionar Cliente" />
+            <elementDefinition Id="c87043ef-6d1b-4be0-943a-8a53a71876d2" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="411c7619-febc-49d1-a0cb-94737ec4e5e0" name="Gestionar Cliente" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="5c73bd70-39f0-484f-bab2-2dc47d8780be" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="899c040e-58dc-40fc-9668-0c9fa2191821" name="Agregar Cliente" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="86cc3c97-a032-499a-b0d2-e56c46c0d64d" />
+        <extendedCases>
+          <extend Id="e852661e-b466-49b2-b0bb-072f04dd248f">
+            <useCaseMoniker Id="411c7619-febc-49d1-a0cb-94737ec4e5e0" LastKnownName="Gestionar Cliente" />
+            <elementDefinition Id="e159450c-3683-4ab6-86bc-f1af0d66f039" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="71f149e5-fff5-44d3-a015-f0c67a15e907" name="Modificar Cliente" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="66439ccb-b5c7-4c9e-8d40-026036be9344" />
+        <extendedCases>
+          <extend Id="b8209e92-2903-4e61-a2df-afbb92825022">
+            <useCaseMoniker Id="411c7619-febc-49d1-a0cb-94737ec4e5e0" LastKnownName="Gestionar Cliente" />
+            <elementDefinition Id="49f44b0a-fec5-4a8f-aeb9-d0853a669504" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="6679f418-306e-4808-88db-6641cf1f3a23" name="Buscar Cliente" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="2bf023ed-f9d0-4043-b797-e66a679e9a55" />
+        <extendedCases>
+          <extend Id="3d6562fe-a5e2-4ef6-ab9b-786f92089e7e">
+            <useCaseMoniker Id="411c7619-febc-49d1-a0cb-94737ec4e5e0" LastKnownName="Gestionar Cliente" />
+            <elementDefinition Id="47430401-2896-416d-b14d-930e6a71dd53" />
+          </extend>
+        </extendedCases>
+        <additions>
+          <include Id="7ffb24df-845d-4cbd-a201-3eaf9f7cb244">
+            <useCaseMoniker Id="71f149e5-fff5-44d3-a015-f0c67a15e907" LastKnownName="Modificar Cliente" />
+            <elementDefinition Id="8f9bb5f3-8a6c-4735-8da8-6bb2f52b7038" />
+          </include>
+          <include Id="9bb285d9-3d05-42e8-b262-10b60b8714e1">
+            <useCaseMoniker Id="8364c462-b975-4ec9-a4a7-998394df8031" LastKnownName="Eliminar Cliente" />
+            <elementDefinition Id="dca13b0c-6350-4675-bc2a-ec3469801864" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="8364c462-b975-4ec9-a4a7-998394df8031" name="Eliminar Cliente" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="176362f9-42d5-48f6-80e6-516bbe6e0e46" />
+        <extendedCases>
+          <extend Id="c0d8d5ac-1b17-4668-93ec-b8d74eaa4f51">
+            <useCaseMoniker Id="411c7619-febc-49d1-a0cb-94737ec4e5e0" LastKnownName="Gestionar Cliente" />
+            <elementDefinition Id="4d530ba7-2f8d-421e-adce-135b6b7634fc" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="0c7a5310-6234-4f73-b810-1d50c6018b94" name="Campañia_Telefónica_Modelo">
+    <elementDefinition Id="40de5717-c78c-4c31-9370-1d9ed4ebbf56" />
+  </package>
+</useCaseModelRoot>

@@ -41,4 +41,20 @@
             _precio = value
         End Set
     End Property
+
+    Public Property ClsVentas As ClsVentas
+        Get
+            Return Nothing
+        End Get
+        Set(value As ClsVentas)
+        End Set
+    End Property
+
+    Public Property ClsClientes As ClsClientes
+        Get
+            Return Nothing
+        End Get
+        Set(value As ClsClientes)
+        End Set
+    End Property
 End Class

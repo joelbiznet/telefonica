@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<layerDiagram dslVersion="1.0.0.0" Id="b66a62a5-a95a-4d88-9bba-0da161ce7571" absoluteBounds="0, 0, 11.25, 8.5" name="Compañia_Telefónica_Capas">
+<layerDiagram dslVersion="1.0.0.0" Id="b66a62a5-a95a-4d88-9bba-0da161ce7571" absoluteBounds="0, 0, 11, 8.5" name="Compañia_Telefónica_Capas">
   <layerModelMoniker Id="9d175c48-6350-43b4-86df-9e2ef1c7535a" />
   <nestedChildShapes>
-    <layerShape Id="7656986c-971f-42af-86f7-ce00f1e0daca" absoluteBounds="2.625, 2.125, 2, 0.75" customColor="161, 199, 231">
+    <layerShape Id="7656986c-971f-42af-86f7-ce00f1e0daca" absoluteBounds="3, 1.25, 2, 0.75" customColor="161, 199, 231">
       <layerMoniker Id="c397a1cf-9afa-49bd-8276-809c749a239b" />
     </layerShape>
-    <layerShape Id="5fcc1e7d-7fda-443c-8aa7-b01136507fa5" absoluteBounds="5.75, 3.75, 2, 0.75" customColor="161, 199, 231">
+    <layerShape Id="5fcc1e7d-7fda-443c-8aa7-b01136507fa5" absoluteBounds="6.125, 2.875, 2, 0.75" customColor="161, 199, 231">
       <layerMoniker Id="0c7debbf-bb07-4a93-91d2-4d2b02e992a8" />
     </layerShape>
-    <layerShape Id="11f7bea3-7f2c-44e1-8932-e73da13319ce" absoluteBounds="9, 4.875, 2, 0.75" customColor="161, 199, 231">
+    <layerShape Id="11f7bea3-7f2c-44e1-8932-e73da13319ce" absoluteBounds="8.75, 4, 2, 0.75" customColor="161, 199, 231">
       <layerMoniker Id="a488d0f4-52b5-4533-b218-8cf4f4286a6b" />
     </layerShape>
-    <layerShape Id="fca9da4c-7e01-4137-888b-40dd7a782834" absoluteBounds="2.625, 4.875, 2, 0.75" customColor="161, 199, 231">
+    <layerShape Id="fca9da4c-7e01-4137-888b-40dd7a782834" absoluteBounds="3, 4, 2, 0.75" customColor="161, 199, 231">
       <layerMoniker Id="869b624f-85ba-4f64-9fc2-bf0848c49b74" />
     </layerShape>
-    <layerShape Id="55317321-0596-4444-90d0-e1d59be353cd" absoluteBounds="8.25, 2.25, 2, 0.75" customColor="161, 199, 231">
+    <layerShape Id="55317321-0596-4444-90d0-e1d59be353cd" absoluteBounds="8.625, 1.375, 2, 0.75" customColor="161, 199, 231">
       <layerMoniker Id="2a6632cc-a5f8-41dd-a39f-737240d23acc" />
     </layerShape>
-    <dependencyConnector edgePoints="[(5.75 : 3.75); (4.625 : 2.875)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="113, 111, 110">
+    <dependencyConnector edgePoints="[(6.125 : 2.875); (5 : 2)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="113, 111, 110">
       <dependencyFromLayerToLayerMoniker Id="e382d58b-1dd9-41a7-9a8f-f0fafc93ada9" />
       <relativeChildShapes />
       <nodes>
@@ -25,7 +25,7 @@
         <layerShapeMoniker Id="7656986c-971f-42af-86f7-ce00f1e0daca" />
       </nodes>
     </dependencyConnector>
-    <dependencyConnector edgePoints="[(4.625 : 4.875); (5.75 : 4.5)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="113, 111, 110">
+    <dependencyConnector edgePoints="[(5 : 4); (6.125 : 3.625)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="113, 111, 110">
       <dependencyFromLayerToLayerMoniker Id="ca177d86-7e7e-45b5-86cd-6ab8a1070447" />
       <relativeChildShapes />
       <nodes>
@@ -33,7 +33,7 @@
         <layerShapeMoniker Id="5fcc1e7d-7fda-443c-8aa7-b01136507fa5" />
       </nodes>
     </dependencyConnector>
-    <dependencyConnector edgePoints="[(8.25 : 3); (7.75 : 3.75)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="113, 111, 110">
+    <dependencyConnector edgePoints="[(8.625 : 2.125); (8.125 : 2.875)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="113, 111, 110">
       <dependencyFromLayerToLayerMoniker Id="fa8aaafd-1596-4bf4-9175-9fe51bc2297d" />
       <relativeChildShapes />
       <nodes>
@@ -41,7 +41,7 @@
         <layerShapeMoniker Id="5fcc1e7d-7fda-443c-8aa7-b01136507fa5" />
       </nodes>
     </dependencyConnector>
-    <dependencyConnector edgePoints="[(8.25 : 2.5312475); (4.625 : 2.5312475)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="113, 111, 110">
+    <dependencyConnector edgePoints="[(8.625 : 1.6562475); (5 : 1.6562475)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="113, 111, 110">
       <dependencyFromLayerToLayerMoniker Id="0f6789c4-e654-497a-bad1-79f012b8bf87" />
       <relativeChildShapes />
       <nodes>
