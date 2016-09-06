@@ -1,0 +1,24 @@
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BD.dll
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BD.pdb
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BD.xml
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BEAN.dll
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BEAN.pdb
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BEAN.xml
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.vbprojResolveAssemblyReference.cache
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia_Telefónica_BD.Resources.resources
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.vbproj.GenerateResource.Cache
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.dll
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.xml
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.pdb
+G:\Compañia Telefónica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BD.dll
+G:\Compañia Telefónica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BD.pdb
+G:\Compañia Telefónica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BD.xml
+G:\Compañia Telefónica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BEAN.dll
+G:\Compañia Telefónica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BEAN.pdb
+G:\Compañia Telefónica\Compañia Telefónica-BD\bin\Debug\Compañia Telefónica-BEAN.xml
+G:\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.vbprojResolveAssemblyReference.cache
+G:\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia_Telefónica_BD.Resources.resources
+G:\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.vbproj.GenerateResource.Cache
+G:\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.dll
+G:\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.xml
+G:\Compañia Telefónica\Compañia Telefónica-BD\obj\Debug\Compañia Telefónica-BD.pdb

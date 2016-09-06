@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="9d175c48-6350-43b4-86df-9e2ef1c7535a" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="c397a1cf-9afa-49bd-8276-809c749a239b" name="Infraestructura Datos (Acceso a Datos)" />
+    <layer Id="0c7debbf-bb07-4a93-91d2-4d2b02e992a8" name="Dominio (Negocio)">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="e382d58b-1dd9-41a7-9a8f-f0fafc93ada9" direction="Forward">
+          <layerMoniker Id="c397a1cf-9afa-49bd-8276-809c749a239b" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="a488d0f4-52b5-4533-b218-8cf4f4286a6b" name="Modelo" />
+    <layer Id="869b624f-85ba-4f64-9fc2-bf0848c49b74" name="Distribución">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="ca177d86-7e7e-45b5-86cd-6ab8a1070447" direction="Forward">
+          <layerMoniker Id="0c7debbf-bb07-4a93-91d2-4d2b02e992a8" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+    <layer Id="2a6632cc-a5f8-41dd-a39f-737240d23acc" name="Pruebas Unitarias">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="fa8aaafd-1596-4bf4-9175-9fe51bc2297d" direction="Forward">
+          <layerMoniker Id="0c7debbf-bb07-4a93-91d2-4d2b02e992a8" />
+        </dependencyFromLayerToLayer>
+        <dependencyFromLayerToLayer Id="0f6789c4-e654-497a-bad1-79f012b8bf87" direction="Forward">
+          <layerMoniker Id="c397a1cf-9afa-49bd-8276-809c749a239b" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+    </layer>
+  </layers>
+</layerModel>

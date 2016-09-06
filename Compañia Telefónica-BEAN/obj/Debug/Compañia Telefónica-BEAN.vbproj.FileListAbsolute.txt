@@ -1,0 +1,16 @@
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BEAN\bin\Debug\Compañia Telefónica-BEAN.dll
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BEAN\bin\Debug\Compañia Telefónica-BEAN.pdb
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BEAN\bin\Debug\Compañia Telefónica-BEAN.xml
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia_Telefónica_BEAN.Resources.resources
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.vbproj.GenerateResource.Cache
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.dll
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.xml
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.pdb
+G:\Compañia Telefónica\Compañia Telefónica-BEAN\bin\Debug\Compañia Telefónica-BEAN.dll
+G:\Compañia Telefónica\Compañia Telefónica-BEAN\bin\Debug\Compañia Telefónica-BEAN.pdb
+G:\Compañia Telefónica\Compañia Telefónica-BEAN\bin\Debug\Compañia Telefónica-BEAN.xml
+G:\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia_Telefónica_BEAN.Resources.resources
+G:\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.vbproj.GenerateResource.Cache
+G:\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.dll
+G:\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.xml
+G:\Compañia Telefónica\Compañia Telefónica-BEAN\obj\Debug\Compañia Telefónica-BEAN.pdb

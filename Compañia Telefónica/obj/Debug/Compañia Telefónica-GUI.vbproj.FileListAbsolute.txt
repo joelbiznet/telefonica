@@ -1,0 +1,60 @@
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica.exe.config
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica.exe
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica.pdb
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica.xml
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Menu_GUI.resources
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Resources.resources
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica-GUI.vbproj.GenerateResource.Cache
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.exe
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.xml
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.pdb
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BEAN.dll
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BUS.dll
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BD.dll
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BEAN.pdb
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BEAN.xml
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BUS.pdb
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BUS.xml
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BD.pdb
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BD.xml
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica-GUI.vbprojResolveAssemblyReference.cache
+C:\Users\DEPIS\Desktop\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Registro_Clientes_GUI.resources
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica.exe.config
+G:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.exe
+G:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.xml
+G:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.pdb
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica.exe
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica.pdb
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica.xml
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BEAN.dll
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BUS.dll
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BD.dll
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BEAN.pdb
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BEAN.xml
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BUS.pdb
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BUS.xml
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BD.pdb
+G:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica-BD.xml
+G:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica-GUI.vbprojResolveAssemblyReference.cache
+G:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Menu_GUI.resources
+G:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Resources.resources
+G:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Registro_Clientes_GUI.resources
+G:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Registro_Telf_GUI.resources
+G:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica-GUI.vbproj.GenerateResource.Cache
+G:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia_Telefónica.Ventas_GUI.resources
+F:\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica.exe.config
+F:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.exe
+F:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.xml
+F:\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.pdb
+F:\ \Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica.exe.config
+F:\ \Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.exe
+F:\ \Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.xml
+F:\ \Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.pdb
+D:\UPT Ingeniería de Sistemas\Tercer Ciclo\Programación II\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica.exe.config
+D:\UPT Ingeniería de Sistemas\Tercer Ciclo\Programación II\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.exe
+D:\UPT Ingeniería de Sistemas\Tercer Ciclo\Programación II\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.xml
+D:\UPT Ingeniería de Sistemas\Tercer Ciclo\Programación II\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.pdb
+F:\Base Datos II\Unidad I\Compañia Telefónica\Compañia Telefónica\bin\Debug\Compañia Telefónica.exe.config
+F:\Base Datos II\Unidad I\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.exe
+F:\Base Datos II\Unidad I\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.xml
+F:\Base Datos II\Unidad I\Compañia Telefónica\Compañia Telefónica\obj\Debug\Compañia Telefónica.pdb
